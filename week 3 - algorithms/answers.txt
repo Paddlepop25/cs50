@@ -1,0 +1,14 @@
+// Guess which sorting algorithm each of the sort* files are 
+when compared with randomised.txt, sorted.txt, reversed.txt
+
+sort1 uses: bubble sort
+
+How do you know?: it is the faster of sort1 and sort3 files to be sorted with sorted50000.txt
+
+sort2 uses: merge sort
+
+How do you know?: it is the fastest of the 3 binary files to be sorted with random50000.txt
+
+sort3 uses: selection sort
+
+How do you know?: it is the slower of sort1 and sort3 files to be sorted with sorted50000.txt
